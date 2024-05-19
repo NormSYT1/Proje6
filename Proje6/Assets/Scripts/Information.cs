@@ -16,7 +16,6 @@ public class Information : MonoBehaviour
     {
         
     }
-
     void Update()
     {
         
@@ -34,7 +33,7 @@ public class Information : MonoBehaviour
         {
             text3.text = "Kýz";
         }
-        if (toggle.isOn)
+        if (toggle.isOn) 
         {
             text4.text = "18 Yaþ Üstü";
         }
